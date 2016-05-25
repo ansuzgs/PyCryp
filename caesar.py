@@ -30,5 +30,4 @@ def decrypt(n, ciphertext):
 
     print result
 
-#caesar(plainText.lower(), shift)
 decrypt(shift, plainText)
